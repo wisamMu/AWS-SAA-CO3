@@ -1,0 +1,15 @@
+# AWS credentials - never commit these
+.env
+.env.*
+*accessKeys*.csv
+*credentials*
+.aws/
+
+# Terraform state and local files (can contain secrets)
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Misc
+*.pem
+.DS_Store
