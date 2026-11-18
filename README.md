@@ -5,7 +5,7 @@ I watch a video course, then come here to practice each section hands-on.
 
 - **Background:** AWS Cloud Practitioner (CLF-C02)
 - **Course:** ~55 hours of video
-- **Target:** exam in ~8 weeks, about 1.5 hours a day
+- **Target:** exam in ~4 weeks, about 3–3.5 hours a day
 
 ## Exam at a glance
 
@@ -18,13 +18,12 @@ I watch a video course, then come here to practice each section hands-on.
 
 65 questions (50 scored), 130 minutes, passing score 720/1000.
 
-## 8-week plan
+## 4-week plan
 
 | Week | Focus | Goal |
 |---|---|---|
-| 1–6 | Finish the course (~9–10 hours of video a week) | Practice each section here after watching it |
-| 7 | Practice exams | Review every topic I get wrong |
-| 8 | Practice exams + fill gaps | Book the exam once I'm consistently scoring ~80%+ |
+| 1–3 | Finish the course (~18 hours of video a week, ~2.5 hours a day; 1.25x speed helps) | Practice each section here after watching it |
+| 4 | Practice exams + fill gaps | Review every topic I get wrong; book the exam once I'm consistently scoring ~80%+ |
 
 **Priority topics:** VPC networking, S3 storage classes and replication, RDS vs Aurora vs DynamoDB, SQS/SNS/Kinesis, high availability and disaster recovery patterns.
 
